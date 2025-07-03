@@ -1,7 +1,7 @@
 # Assignment 1 — Linear Algebra Foundations
 
-**Student:** `<Your Name>`  
-**Dartmouth ID:** `<Your ID>`
+**Student:** `Benjamin Huh`  
+**Dartmouth ID:** `F004NDC`
 
 ---
 
